@@ -1,5 +1,5 @@
 ## <img src="/Images/Icons/open_government.png" width="200" height="200" />
-## 9. Open Science Policies
+## 9. Open Science Policies / Políticas de Acceso Abierto
 
 ### What is it?
 
